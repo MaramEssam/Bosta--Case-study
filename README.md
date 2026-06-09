@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Document Type** | Case Study |
-| **Author** | Maram Essam (Product Manager) |
+| **Author** | Maram Essam  |
 | **Delivered To** | Bosta |
 | **Date** | August 25, 2024 |
 
