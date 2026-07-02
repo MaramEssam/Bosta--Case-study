@@ -1,17 +1,17 @@
-# 🚚 Bosta — Product Management Case Study
+# 🚚 SOHO sellers — Product Management Case Study
 
 | | |
 |---|---|
 | **Document Type** | Case Study |
 | **Author** | Maram Essam  |
-| **Delivered To** | Bosta |
+| **Delivered To** | SOHO sellers |
 | **Date** | August 25, 2024 |
 
 ---
 
 ## 📌 Overview
 
-**Bosta Case Study** is a product management case study for building a mobile-first delivery platform tailored to SOHO (Small Office Home Office) sellers in Egypt. It covers the full PM workflow: problem statement, persona definition, MVP vision, user stories, AARRR metrics, wireframing, and risk analysis. It also includes a data analysis section with cohort comparison, pattern discovery, and actionable recommendations to improve user engagement and conversion.
+**SOHO sellers Case Study** is a product management case study for building a mobile-first delivery platform tailored to SOHO (Small Office Home Office) sellers in Egypt. It covers the full PM workflow: problem statement, persona definition, MVP vision, user stories, AARRR metrics, wireframing, and risk analysis. It also includes a data analysis section with cohort comparison, pattern discovery, and actionable recommendations to improve user engagement and conversion.
 
 ---
 
@@ -24,13 +24,13 @@ SOHO sellers are struggling to efficiently manage their deliveries due to a lack
 - Schedule pickups at convenient times
 - Track their shipments and communicate delays to customers
 
-**Bosta** aims to solve this by providing a user-friendly mobile platform tailored to their needs.
+**SOHO sellers** aims to solve this by providing a user-friendly mobile platform tailored to their needs.
 
 ---
 
 ## 🔧 Assumptions
 
-- Integrated payment with Bosta so the merchant can pay for registration in-app
+- Integrated payment with SOHO sellers so the merchant can pay for registration in-app
 - In-house development, design, and customer service teams available
 - Product analyst available to track user behavior via Mixpanel or equivalent tool
 
@@ -57,7 +57,7 @@ Enable SOHO sellers to seamlessly **sign up**, **create shipping orders**, and *
 
 | User Story | In MVP? |
 |---|---|
-| As a SOHO seller, I want to easily sign up on Bosta using my mobile device | ✅ Yes |
+| As a SOHO seller, I want to easily sign up on SOHO sellers using my mobile device | ✅ Yes |
 | As a SOHO seller, I want to create and manage shipping orders from my mobile device | ✅ Yes |
 | As a SOHO seller, I want to schedule pickups with a preferred time slot and location | ✅ Yes |
 | As a SOHO seller, I want to receive a tracking number for each order | ✅ Yes |
@@ -162,9 +162,9 @@ A/B/C cohort analysis was conducted on 948 users across three cohorts to identif
 ## 📁 Repository Contents
 
 ```
-📁 Bosta-Case-Study/
+📁 SOHO sellers-Case-Study/
 ├── 📄 README.md
-└── 📄 Bosta - Case study.pdf
+└── 📄 SOHO sellers - Case study.pdf
 ```
 
 ---
